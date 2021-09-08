@@ -1,4 +1,4 @@
-# Italian reviews dataset
+# Spanish reviews dataset
 A dataset of spanish reviews to train sentiment classification models. 
 
 This dataset has been collected from the internet using web scraping techniques. For further information take a look to the code:
